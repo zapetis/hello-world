@@ -13,5 +13,5 @@ With a strawberry blonde fall
 Sunglasses and a bonnet
 And designer jeans with appliques on it?
 
-Trying just one more thing to see how the branching works!
-Curious Joe!!
+Trying one more thing to check Insights branch charting
+Curious Joe Strikes again!
