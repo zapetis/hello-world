@@ -1,2 +1,5 @@
 # hello-world
-My First github repo!
+
+Hey there,
+It is I Modine and my intergalatic flying machine!
+What about Quiche Lorraine?
